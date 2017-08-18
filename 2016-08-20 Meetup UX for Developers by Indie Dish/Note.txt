@@ -1,0 +1,100 @@
+14:00
+
+
+
+
+[UX 3 หัวข้อ]
+1. Mindset - เข้าใจแนวคิด
+2. Framework - วิธีการทำ
+3. Implementation - ปรับใช้งาน
+
+---[​Mindset]---
+1. Think Human - มนุษย์
+    - เข้าใจเกี่ยวกับคน
+    - วิถีชีวิต การกระทำ การตัดสินใจ
+2. Think Holistic - องค์รวม, ความสมบูรณ์
+    - คิดภาพรวม
+    - การใช้งานที่ง่าย
+    - ความสะดวก ขั้นตอนการทำงานโดยรวม มองภาพกว้าง
+    - คำถามแบบเปิด
+    - เขาต้องการจะทำอะไร เขาอยู่ที่ไหน
+3. Think Detail
+    - การตั้งคำถาม เช่น ทำไมต้องทำแบบนี้ ทำไมถึงต้องการแบบนี้
+    - เก็บรายละเอียดในเชิงลึก คำถามแบบปิด
+    - micro interaction / Trigger <-> Feedback เช่น ก๊อกน้ำ เอามือไปใกล้ก๊อกน้ำมี Trigger จับว่ามีมืออยู่ และมี Feedback เป็นน้ำไหลออกมา
+4. Think What IF
+    - เรื่องของความเพ้อฝัน ความคิด คิดแทน จินตนาการ
+    - คิดว่ามันต้องทำอะไรได้บ้าง Requirement โดยละเอียด
+
+---[Framework]---
+Discover -> Design -> Develop -> Do the test -> (Loop to Discover)
+1. Discover - รวบรวมข้อมูล
+2. Design - ทดลอง ตั้งสมมุติฐาน
+3. Develop - ทำให้ Design เป็นจริง
+4. Do the test - ทดสอบ
+
+---[Implement]---
+แบ่งออกเป็น 2 Case Study
+1. New Product - โปรเจคใหม่
+2. Later Stage - ทำของเดิมที่มีอยู่แล้ว
+
+------[New Product] Case ทำอาหารคลีน------
+Discover
+
+[Brainstorming - KJ Technique] กิจกรรม 30 นาที เพื่อ Group ไอเดียของทุกคนเข้าด้วยกัน
+ขั้นตอนแรก
+- ตั้งคำถามคำถามแรก เช่น ทำไมเราต้องรวมตัวที่นี่? User เราคือใคร? ปัญหาคืออะไร?
+ขั้นตอนที่สอง
+- อยากได้อะไร? รวบรวมไอเดียของทุกคน ปัญหา
+
+[Create a Press Release]
+
+1. Problem
+2. Solution
+3. How to use it
+4. Customer quotes
+5. Where to try the product
+
+- Case Study Product หาคอนโด
+Problem
+- สร้าง Vision ว่า Product เราแก้ปัญหาอะไร
+- แก้ปัญหาการหาคอนโดที่ยาก
+- หาคอนโดไม่เจอ
+Solution
+- ทำ App ให้ User ค้นหาได้ง่ายขึ้น จัดหา คอนโด มา Map กับ User ให้สะดวกขึ้น
+How to use it
+- โหลดมา ใส่ชื่อ ใส่ที่อยู่
+Customer quotes
+- User ก็บอก ว่า โอเคหา คอนโดได้ง่ายเลย สะดวกมาก
+Where to try the product
+- ทำยังไง
+
+
+[วิธี Test]
+ต้องทำให้ user test โดยเราห้ามไป Guide เขา ห้ามให้เขารู้ว่าเราเป็นคนทำยิ่งดี
+ให้เขาออกความคิดเห็นได้เต็มที่กับ App ที่เราทำ เราจะได้ ผลตอบรับที่ดีกว่า การที่เราไปบอกว่า Product นี้เราทำ
+
+------[Later Stage] Case ทำอาหารคลีน------
+Focus
+- Understand existing behaviors & expectations
+    1. Look At Past data - เดิมเขาใช้ยังไง
+- Uncover stakeholders
+
+Discover
+- ดูข้อมูลเก่า ดูปัญหา ดูการทำงานเดิมว่าทำยังไงใช้ยังไง มีปัญหาอะไร
+
+Design Strategy
+- UI Design 101
+    1. Context - ต้องเข้าใจก่อนว่าคนที่ใช้หน้านี้เขาทำอะไรอยู่เช่น อยู่บ้าน ขับรถอยู่ มี tablet มีมือถือ ใช้ตอนไหน อยู่ที่ไหน
+    2. Purpose - เราทำเพื่ออะไร
+    3. Content - ต้องมี Content อะไรบ้าง เช่น รูปภาพ แมพ ตาราง ชื่อสถานที่
+    4. Layout - ออกแบบ font แบ่งหน้า เช่น grid table model
+    5. Surface - ออกมาเป็นยังไง
+
+Develop
+- พัฒนา
+
+Do the test
+- สำคัญคือ ดูว่ามันใช้ได้รึเปล่า มี bug ไหม
+
+AB testing คือ ทำ หลายๆแบบ และให้ User เลือก
